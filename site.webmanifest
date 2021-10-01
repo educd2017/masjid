@@ -3,13 +3,13 @@
     "short_name": "دليل مساجد اسيوط",
     "icons": [
         {
-            "src": "#",
+            "src": "https://lh3.googleusercontent.com/-HuvRQx6OkoM/YVbCo0q8GBI/AAAAAAAAIMY/r7e8rSiCT844i3AmzHWoCIbngyo7btTVwCLcBGAsYHQ/s16000/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "#",
+            "src": "https://lh3.googleusercontent.com/-AYH3tq_DB9w/YVbCqC2PKsI/AAAAAAAAIMc/PLjGKuw-Ozg4-PKJ3UVYkzx_TaGRoY4nwCLcBGAsYHQ/s16000/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
